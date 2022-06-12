@@ -9,7 +9,7 @@ int main()
     
     cout<<text[1]<<endl;
     
-    cout<<text.find("llo",1)<<endl;
+    cout<<text.find("llo")<<endl;
     
     cout<<text.substr(1,6)<<endl; //Its gonna start with character positioned at 1 and gonna take 5 characters
 
